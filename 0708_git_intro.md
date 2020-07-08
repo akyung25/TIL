@@ -12,10 +12,17 @@
 
       `"name"`
 
-   
-
    2. `$ git config --global user.email`
 
       `"abcd@email"`
 
       
+
+3. 리포의 상태 보기 `$ git status
+
+4. stage에 올리기 $ git add
+
+5. snapshot 찍기 $ git commit
+
+6. 로그 보기 $ git log (하나의 사진첩)
+
