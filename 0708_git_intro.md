@@ -33,11 +33,12 @@
 
 7. 로그 보기 $ git log (하나의 사진첩)
 
-### 집 컴퓨터 세팅
+### 집 컴퓨터 세팅(1회만 하면 됨)
 
 1. git 다운로드 및 설치
-2. `$ git config --global .....
-3. `$ git clone <URL>`
+2. windows 키 누르고 => git bash 찾아서 실행(집컴의 홈폴더-)
+3. `$ git config --global .....`.
+4. `$ git clone <URL>`
 
 ## github
 
